@@ -11,7 +11,7 @@ My name is Michael Guo, I am a data scientist from Cape Town, South Africa. I ha
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge" />
 </p>
 
-I'm currently learning more languages, how to implement different models, and working on my personal coding projects
+I am currently learning more about statistics, machine learning, and learning more programming languages and packages.
 
 ### Contact me
 Send me a message if you wish to collaborate on a project! Or if you wish to offer any comments/advice on my current projects, any critique is welcome.
